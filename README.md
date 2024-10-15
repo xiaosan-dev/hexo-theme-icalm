@@ -15,8 +15,8 @@ Basic style support for outdated browsers.
 ## Installation
 
 ```
-git clone git@github.com:xiaosan-dev/hexo-theme-icalm.git themes/icalm
-cd themes/hexo-theme-icalm/
+git clone https://github.com/xiaosan-dev/hexo-theme-icalm.git themes/icalm
+cd themes/icalm/
 git submodule update --init --recursive
 ```
 
